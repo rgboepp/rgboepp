@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rgboepp
 - 👀 I’m interested in learning python to use with Home Assistant.
 - 🌱 I’m currently learning the Home Assistant automation operating system which I have installed onto a Raspbery PI 3.
-- 💞️ I’m looking to collaborate on Insteon intergration into Home Assistant.
+- 💞️ I’m looking to collaborate on Insteon integration into Home Assistant.
 - 📫 How to reach me - I can be reached via email at rick.boepple@gmail.com.
 
 <!---
